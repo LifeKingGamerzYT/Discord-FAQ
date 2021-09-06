@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-<h1>FAQ - Team Ujjwal</h1>
+<img src="https://i.imgur.com/6Lqo7kt.png" width="128px" style="max-width:100%;">
+<h1>FAQ - CLAN WESTROSS</h1>
 </div>
 
 #### Here are some of the most asked questions and their answers please don't ping the staff unnecessarily for these questions and if they are asked again we may not answer it.
